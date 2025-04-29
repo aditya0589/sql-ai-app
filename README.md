@@ -225,4 +225,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 #Contact
 
-For questions or feedback, please contact your.email@example.com or open an issue on GitHub.
+For questions or feedback, please contact yraditya895@gmail.com or open an issue on GitHub.
