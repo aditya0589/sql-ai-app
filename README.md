@@ -66,8 +66,8 @@ Installation
 
 Clone the Repository:
 
-git clone https://github.com/yourusername/ai-mysql-nl-interface.git
-cd ai-mysql-nl-interface
+git clone https://github.com/aditya0589/sql-ai-app.git
+cd sql-ai-app
 
 
 
@@ -97,7 +97,7 @@ Usage
 
 Run the Application:
 
-python main.py
+streamlit run app.py
 
 
 
